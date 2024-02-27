@@ -1,2 +1,2 @@
-# moyenjoec.github.io
+# moyenjoe.github.io
 Personal blog
