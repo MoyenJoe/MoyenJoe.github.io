@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 标签 - Average Joe Site</title>
+        <link>https://example.org/zh-cn/tags/</link>
+        <description>Tags - 标签 - Average Joe Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 27 Feb 2024 16:06:29 &#43;0100</lastBuildDate><atom:link href="https://example.org/zh-cn/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Guide</title>
+    <link>https://example.org/zh-cn/tags/guide/</link>
+    <pubDate>Tue, 27 Feb 2024 16:06:29 &#43;0100</pubDate>
+    <author>Average Joe</author>
+    <guid>https://example.org/zh-cn/tags/guide/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Hugo</title>
+    <link>https://example.org/zh-cn/tags/hugo/</link>
+    <pubDate>Tue, 27 Feb 2024 16:06:29 &#43;0100</pubDate>
+    <author>Average Joe</author>
+    <guid>https://example.org/zh-cn/tags/hugo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Web</title>
+    <link>https://example.org/zh-cn/tags/web/</link>
+    <pubDate>Tue, 27 Feb 2024 16:06:29 &#43;0100</pubDate>
+    <author>Average Joe</author>
+    <guid>https://example.org/zh-cn/tags/web/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - Average Joe Blog</title>
+        <title>Tags - Tag - Average Joe Site</title>
         <link>https://example.org/tags/</link>
-        <description>Tags - Tag - Average Joe Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://example.org/tags/" rel="self" type="application/rss+xml" /></channel>
+        <description>Tags - Tag - Average Joe Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://example.org/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

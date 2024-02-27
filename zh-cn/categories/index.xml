@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - Average Joe Site</title>
+        <link>https://example.org/zh-cn/categories/</link>
+        <description>Categories - 分类 - Average Joe Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 27 Feb 2024 16:06:29 &#43;0100</lastBuildDate><atom:link href="https://example.org/zh-cn/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Web</title>
+    <link>https://example.org/zh-cn/categories/web/</link>
+    <pubDate>Tue, 27 Feb 2024 16:06:29 &#43;0100</pubDate>
+    <author>Average Joe</author>
+    <guid>https://example.org/zh-cn/categories/web/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
